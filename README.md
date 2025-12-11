@@ -81,5 +81,11 @@ http://127.0.0.1:8000/docs
 **Image**
 <img width="1000" height="635" alt="Screenshot 2025-12-11 190627" src="https://github.com/user-attachments/assets/7be3a906-46d6-4483-9543-77fdb9cf46ac" />
 
+## Author
+**Created by @Yash**
+
+If you found this useful, consider leaving a ⭐ on the repository!
+
+---
 
 
