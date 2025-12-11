@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+mysql-connector-python
+passlib==1.7.4
+bcrypt==4.1.2
+python-jose
+cryptography
+python-multipart
+pydantic
+python-dotenv
+langchain
+langchain-core
+langchain-community
+langchain-groq
